@@ -1,19 +1,4 @@
-# pyQiwiP2P
-
-[![CodeFactor](https://www.codefactor.io/repository/github/whiteapfel/pyqiwip2p/badge)](https://www.codefactor.io/repository/github/whiteapfel/pyqiwip2p)
-
-## Поддержка прекращена
-
-Есть более качественный инструмент, полностью покрывающий функции pyQiwiP2P: [glQiwiApi](https://github.com/GLEF1X/glQiwiApi)
-
-Возможно, здесь когда-нибудь будет гайд по миграции на него, но всё в руках сообщества
-
-### О библиотеке
-
-Штучка для удобной работы с кивишной апишкой платежей
-
-Есть типа [документация](https://pyqiwip2p.readthedocs.io/ru/latest/), но в ней есть и косячки, поэтому, 
-если найдёте таковой, обязательно сообщите мне. Буду искренне рад. Правда. Спасибо.
+# pyQiwiP2P (Форк от WhiteApfel)
 
 ### Миграция с первой версии:
 
